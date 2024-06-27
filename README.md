@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Joel, un estudiante de desarrollo de software, <br>actualmente estoy aprendiendo TypeScript, Java y SQL
+¡Hola! Soy Joel, un estudiante de desarrollo de software, <br>actualmente estoy aprendiendo TypeScript, Java y MySQL
 
 
 ## 🌐 Socials:

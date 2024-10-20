@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
      <h1>My Skill</h1>
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js" />
   </a>
 </p>
 

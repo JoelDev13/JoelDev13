@@ -11,6 +11,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
      <h1>Estoy aprendiendo</h1>
-    <img src="https://skillicons.dev/icons?i=angular,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=angular,cs,mysql" />
   </a>
 </p>

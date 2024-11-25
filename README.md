@@ -30,8 +30,8 @@
 
 <a href="https://github.com/JoelDev13/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelDev13&show_icons=true&include_all_commits=true&theme=dark&hide_border=true#gh-dark-mode-only" alt="JoelDev13 github stats" />
+
 </a> 
-|
 <a href="https://github.com/JoelDev13/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelDev13&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only" />
 </a>

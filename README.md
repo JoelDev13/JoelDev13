@@ -26,7 +26,16 @@
  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelDev13&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)     
+
+
+<a href="https://github.com/JoelDev13/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelDev13&show_icons=true&include_all_commits=true&theme=dark&hide_border=true#gh-dark-mode-only" alt="JoelDev13 github stats" />
+</a> 
+|
+<a href="https://github.com/JoelDev13/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelDev13&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only" />
+</a>
+    
  
   
 

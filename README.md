@@ -3,7 +3,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JoelDev13/JoelDev13/output/snake.svg" alt="Snake animation" />
+
 
 ###
 

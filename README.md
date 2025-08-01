@@ -13,27 +13,63 @@
 
 [![](https://visitcount.itsvg.in/api?id=JoelDev13&icon=0&color=0)](https://visitcount.itsvg.in) 
 
- # My Stack :
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
- ![Typescript](https://img.shields.io/badge/Typescript-%233178C6.svg?style=for-the-badge&logo=Typescript&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
- # Aprediendo :
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+``` .yml
+name: Joel Berroa
+role: Software Development Student
+skills:
+  - Software Architecture
+  - Design Patterns
+  - Clean Code & SOLID Principles
+  - Problem Solving
 
+languages:
+  - C#
+  - SQL
+  - TypeScript
+
+
+passionateAbout: |
+  Mi pasión por el desarrollo de software nace del deseo de construir soluciones que realmente funcionen y escalen.
+  Me motiva crear arquitecturas limpias y sólidas, con un enfoque en el backend robusto y bien estructurado.
+  Disfruto trabajar con bases de datos y comprender cómo todos los componentes del sistema se conectan para ofrecer rendimiento y confiabilidad.
+  Tengo un interés profundo por el Cloud, la inteligencia artificial y el aprendizaje automático (IA/ML), así como los microservicios.
+  Siempre estoy en búsqueda de aprender y mejorar, porque creo que un buen desarrollador nunca deja de evolucionar.
+
+learning:
+  - Angular
+  - .NET
+```
+
+
+ ## <b>My Stack!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
  
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,js,ts,cs,py,mysql,redis,git,postman,linux,bash" />
+  </a>
+</p>
 
- 
+ ## <b>Learning!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,mongodb,angular,java,spring,docker,azure,jenkins,tensorflow,sklearn" />
+  </a>
+</p>
+
+## <b>Socials!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+<div align='center'>
+<ul>
+<a href="https://www.linkedin.com/in/joelberroa/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom:5px;"/>
+</a>
+</ul>
+</div
+
+##<b>Stars!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
 
 <a href="https://github.com/JoelDev13/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelDev13&show_icons=true&include_all_commits=true&theme=dark&hide_border=true#gh-dark-mode-only" alt="JoelDev13 github stats" />

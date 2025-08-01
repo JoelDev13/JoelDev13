@@ -15,30 +15,30 @@
 
 
 ``` .yml
-name: Joel Berroa
-role: Software Development Student
-skills:
-  - Software Architecture
-  - Design Patterns
-  - Clean Code & SOLID Principles
-  - Problem Solving
+Nombre: Joel Berroa
+Rol: Estudiante de Desarrollo de Software
+Habilidades:
+  - Arquitectura de Software
+  - Patrones de Diseño
+  - Código Limpio y Principios SOLID
+ 
 
-languages:
+Lenguajes:
   - C#
   - SQL
   - TypeScript
 
-
-passionateAbout: |
+ApasionadoPor: |
   Mi pasión por el desarrollo de software nace del deseo de construir soluciones que realmente funcionen y escalen.
   Me motiva crear arquitecturas limpias y sólidas, con un enfoque en el backend robusto y bien estructurado.
   Disfruto trabajar con bases de datos y comprender cómo todos los componentes del sistema se conectan para ofrecer rendimiento y confiabilidad.
-  Tengo un interés profundo por el Cloud, la inteligencia artificial y el aprendizaje automático (IA/ML), así como los microservicios.
+  Tengo un interés profundo por la nube, la inteligencia artificial y el aprendizaje automático (IA/ML), así como los microservicios.
   Siempre estoy en búsqueda de aprender y mejorar, porque creo que un buen desarrollador nunca deja de evolucionar.
 
-learning:
+Aprendiendo:
   - Angular
   - .NET
+
 ```
 
 

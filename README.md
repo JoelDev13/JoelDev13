@@ -60,15 +60,9 @@ Aprendiendo:
 
 ## <b>Socials!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<div align='center'>
-<ul>
-<a href="https://www.linkedin.com/in/joelberroa/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom:5px;"/>
-</a>
-</ul>
-</div
 
-##<b>Stars!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+
 
 
 <a href="https://github.com/JoelDev13/github-readme-stats">

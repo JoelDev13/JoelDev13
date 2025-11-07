@@ -46,7 +46,7 @@ Aprendiendo:
  
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,js,ts,cs,py,mysql,redis,git,postman,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,js,ts,cs,py,mysql,git,postman,linux,bash" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@ Aprendiendo:
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,mongodb,angular,java,spring,docker,azure,jenkins,tensorflow,sklearn" />
+    <img src="https://skillicons.dev/icons?i=dotnet,mongodb,angular,java,spring,docker,azure,redis,jenkins,tensorflow,sklearn" />
   </a>
 </p>
 

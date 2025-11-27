@@ -8,12 +8,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/JoelDev13/JoelDev13/output/github-snake.svg" />
 </picture>
 
-
-###
-
-[![](https://visitcount.itsvg.in/api?id=JoelDev13&icon=0&color=0)](https://visitcount.itsvg.in) 
-
-
 ``` .yml
 Nombre: Joel Berroa
 Rol: Estudiante de Desarrollo de Software
@@ -42,37 +36,5 @@ Aprendiendo:
 ```
 
 
- ## <b>My Stack!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
- 
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,js,ts,cs,py,mysql,git,postman,linux,bash" />
-  </a>
-</p>
-
- ## <b>Learning!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,mongodb,angular,java,spring,docker,azure,redis,jenkins,tensorflow,sklearn" />
-  </a>
-</p>
-
-## <b>Socials!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-
-
-
-
-
-<a href="https://github.com/JoelDev13/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelDev13&show_icons=true&include_all_commits=true&theme=dark&hide_border=true#gh-dark-mode-only" alt="JoelDev13 github stats" />
-
-</a> 
-<a href="https://github.com/JoelDev13/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelDev13&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only" />
-</a>
-    
- 
   
 

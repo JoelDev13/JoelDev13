@@ -31,7 +31,9 @@ ApasionadoPor: |
 
 Aprendiendo:
   - Angular
+  - React
   - .NET
+  
 
 ```
 

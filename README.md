@@ -28,6 +28,26 @@ ApasionadoPor: |
   Disfruto trabajar con bases de datos, Infraestructura y comprender cómo todos los componentes del sistema se conectan para ofrecer rendimiento y confiabilidad.
 
 ```
+<div align="center" style="display:flex; justify-content:center; gap:80px; flex-wrap:wrap;">
+
+  <div align="center">
+    <strong>My Skills</strong><br><br>
+    <img src="https://skillicons.dev/icons?i=html,css,ts,cs,dotnet,postgres" />
+  </div>
+
+  <div align="center">
+    <strong>Learning</strong><br><br>
+    <img src="https://skillicons.dev/icons?i=docker,redis,mongodb,angular,nodejs,nestjs" />
+  </div>
+
+</div>
+
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelDev13&layout=compact&theme=tokyonight" alt="JoelDev13" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelDev13&show_icons=true&locale=en&theme=tokyonight" alt="JoelDev13" />
+</div>
 
 
   

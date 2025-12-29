@@ -32,12 +32,12 @@ ApasionadoPor: |
 
   <div align="center">
     <strong>My Skills</strong><br><br>
-    <img src="https://skillicons.dev/icons?i=html,css,ts,cs,dotnet,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,cs,postgres" />
   </div>
 
   <div align="center">
     <strong>Learning</strong><br><br>
-    <img src="https://skillicons.dev/icons?i=docker,redis,mongodb,angular,nodejs,nestjs" />
+    <img src="https://skillicons.dev/icons?i=dotnet,docker,redis,mongodb,angular,nodejs,nestjs" />
   </div>
 
 </div>

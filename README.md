@@ -37,7 +37,7 @@ ApasionadoPor: |
 
   <div align="center">
     <strong>Learning</strong><br><br>
-    <img src="https://skillicons.dev/icons?i=dotnet,docker,bash,redis,mongodb,angular,go,nodejs,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=dotnet,docker,bash,redis,mongodb,angular,cpp,go,nodejs,express,nestjs,django" />
   </div>
 
 </div>

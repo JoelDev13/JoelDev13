@@ -8,26 +8,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/JoelDev13/JoelDev13/output/github-snake.svg" />
 </picture>
 
-``` .yml
-Nombre: Joel Berroa
-Rol: Estudiante de Desarrollo de Software
-Habilidades:
-  - Arquitectura de Software
-  - Patrones de Diseño
-  - Código Limpio y Principios SOLID
- 
-
-Lenguajes:
-  - C#
-  - SQL
-  - TypeScript
-
-ApasionadoPor: |
-  Mi pasión por el desarrollo de software nace del deseo de construir soluciones que realmente funcionen y escalen.
-  Me motiva crear arquitecturas limpias y sólidas, con un enfoque en el backend robusto y bien estructurado.
-  Disfruto trabajar con bases de datos, Infraestructura y comprender cómo todos los componentes del sistema se conectan para ofrecer rendimiento y confiabilidad.
-
-```
 <div align="center" style="display:flex; justify-content:center; gap:80px; flex-wrap:wrap;">
 
   <div align="center">

@@ -10,18 +10,6 @@
 
 <div align="center" style="display:flex; justify-content:center; gap:80px; flex-wrap:wrap;">
 
-  <div align="center">
-    <strong>My Skills</strong><br><br>
-    <img src="https://skillicons.dev/icons?i=html,css,ts,cs,postgres" />
-  </div>
-
-  <div align="center">
-    <strong>Learning</strong><br><br>
-    <img src="https://skillicons.dev/icons?i=dotnet,docker,bash,redis,mongodb,angular,go,nodejs,express,nestjs" />
-  </div>
-
-</div>
-
 
 
 <div align="center">
